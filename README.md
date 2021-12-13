@@ -33,7 +33,21 @@ How to download via Npm:
    ```sh
    npm install
    ```
+   
+## NOTE:
+### If using the .py/exe's and getting a call back for "Missing module" "Missing attributes to ____"
+## or anything along those lines, you need to make a Virtual Environment within VSCODE terminal.
+# Here's how:
+(if ur on linux you shouldnt not know the damn alternative commands)
 
+1. Make the VENV.
+   ```sh
+   python -m venv file_path_to_your_project/venv
+   ```
+2. Change to each directory, adding each necassary attribute or module.
+   ```sh
+   pip install module_or_atribute
+   ```
 
 <!-- CONTACT -->
 ## Contact
