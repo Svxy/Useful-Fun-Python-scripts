@@ -1,7 +1,6 @@
 <!-- ABOUT THE PROJECT -->
 ## Python Scripts!!
 ### This is a repository of my Python scripts
-### Either run each .py through powershell or run the exe!
 
 
 
@@ -35,7 +34,7 @@ How to download via Npm:
    ```
    
 ## NOTE:
-### If using the .py/exe's and getting a call back for "Missing module" "Missing attributes to ____"
+### If using the .py's and getting a call back for "Missing module" "Missing attributes to ____"
 ## or anything along those lines, you need to make a Virtual Environment within VSCODE terminal.
 # Here's how:
 (if ur on linux you shouldnt not know the damn alternative commands)
