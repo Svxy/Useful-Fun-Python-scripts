@@ -54,6 +54,11 @@ How to download via Npm:
    ```terminal
    pip install module_or_atribute
    ```
+   
+## If you're having more problems or cant figure it out heres a video:
+(cred: Aditya Thakur)
+
+[![Tutorial](https://i.ytimg.com/vi/ThU13tikHQw/maxresdefault.jpg)](https://www.youtube.com/watch?v=ThU13tikHQw "How to cuz im bad at explaining stuff lol also how bout i fill up ur screen How to cuz im bad at explaining stuff lol also how bout i fill up ur screen How to cuz im bad at explaining stuff lol also how bout i fill up ur screen How to cuz im bad at explaining stuff lol also how bout i fill up ur screen How to cuz im bad at explaining stuff lol also how bout i fill up ur screen How to cuz im bad at explaining stuff lol also how bout i fill up ur screen How to cuz im bad at explaining stuff lol also how bout i fill up ur screen How to cuz im bad at explaining stuff lol also how bout i fill up ur screen How to cuz im bad at explaining stuff lol")
 
 <!-- CONTACT -->
 ## Contact
@@ -61,4 +66,4 @@ How to download via Npm:
 Cutiey - [@poopypantleg](https://twitter.com/poopypantleg) - aidan61605@gmail.com
 
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="bottom">(<a href="#top">back to top</a>)</p>
