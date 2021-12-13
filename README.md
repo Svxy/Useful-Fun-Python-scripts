@@ -41,11 +41,17 @@ How to download via Npm:
 (if ur on linux you shouldnt not know the damn alternative commands)
 
 1. Make the VENV.
-   ```sh
+   ```terminal
    python -m venv file_path_to_your_project/venv
    ```
-2. Change to each directory, adding each necassary attribute or module.
-   ```sh
+2. Open a new terminal with the VENV\
+   Right click the newly created VENV file and "Open new terminal instance"
+
+3. Change to each directory, adding each necassary attribute or module.
+   ```terminal
+   cd path_to_each_project
+   ```
+   ```terminal
    pip install module_or_atribute
    ```
 
